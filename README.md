@@ -1,4 +1,4 @@
-<img src="bongoCat.jpg" align="center">
+<img src="hey.jpg" align="center">
 
 <!--
 **jvitormichels/jvitormichels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
