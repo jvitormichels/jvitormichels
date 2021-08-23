@@ -4,10 +4,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **OOP with C#**
-- 💡 I'm also learning **3D modeling** as a hobby 
-- ✨ I’m looking to learn and collaborate on **open source projects**!
-- 📫 You can reach me in **jvitormichels@gmail.com**
+- 🔭 I’m currently working at [EUAX](https://grupoeuax.com.br/) as a Rails Dev.
+- 🌱 I’m currently learning lower level tricks with C
+- 💡 I'm also learning 3D modeling as a hobby 
+- ✨ I’m looking to learn and collaborate on open source projects!
+- 📫 You can reach me in jvitormichels@gmail.com
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
