@@ -12,8 +12,8 @@
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-michels-b70a56197/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"height="30" width="40" /></a>
-  <a href="https://www.instagram.com/mirjels/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-michels-b70a56197/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409945.png"height="30"/></a>
+  <a href="https://www.instagram.com/mirjels/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" height="30" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvitormichels&theme=dark&show_icons=true"/></p>
