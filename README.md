@@ -16,6 +16,7 @@
   <a href="https://www.instagram.com/mirjels/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" height="30" /></a>
 </p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvitormichels&theme=dark&show_icons=true"/></p>
 
 <!--
