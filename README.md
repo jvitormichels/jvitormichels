@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working at [EUAX](https://grupoeuax.com.br/) as a Rails Dev.
+- 🔭 I'm currently not working formally
 - 🌱 I’m currently learning the basics of front end.
 - 💡 I'm also learning 3D modeling as a hobby 
 - ✨ I’m looking to learn and collaborate on open source projects!
