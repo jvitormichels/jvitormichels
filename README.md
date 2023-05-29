@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I'm currently not working formally
-- 🌱 I’m currently learning the basics of front end.
+- 🌱 Working my way up through [backend dev roadmap](https://roadmap.sh/backend)
 - 💡 I'm also learning 3D modeling as a hobby 
 - ✨ I’m looking to learn and collaborate on open source projects!
 - 📫 You can reach me in jvitormichels@gmail.com
