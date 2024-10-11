@@ -13,7 +13,7 @@
 <p align="left">
   <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-michels-b70a56197/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png"height="30"/></a>
-  <a href="https://www.instagram.com/mirjels/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" height="30" /></a>
+  <a href="https://www.instagram.com/joao.michelss/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-256.png" height="30" /></a>
 </p>
 
 <!--
