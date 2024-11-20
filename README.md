@@ -9,6 +9,7 @@
 - 💡 I'm also learning 3D modeling as a hobby 
 - ✨ I’m looking to learn and collaborate on open source projects!
 - 📫 You can reach me in jvitormichels@gmail.com
+- 📄 You can check my resume [here](https://honeysuckle-team-5c1.notion.site/Jo-o-Vitor-Michels-Resume-13cf0110f68b80fdb80bc8eb9bf9144d)
 
 <p align="left">
   <h3 align="left">Connect with me:</h3>
